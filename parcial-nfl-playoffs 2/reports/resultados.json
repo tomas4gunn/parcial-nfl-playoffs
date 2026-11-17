@@ -1,0 +1,61 @@
+{
+ "cumple": false,
+ "corte_final": 12,
+ "modelo_final": "svm",
+ "VP": 159,
+ "FP": 28,
+ "FN": 45,
+ "VN": 280,
+ "exactitud_global": 0.857421875,
+ "umbral_mediana": 0.5,
+ "hiperparametros_final": "{'m__C': 10, 'm__gamma': 0.01}",
+ "corte_2026": 6,
+ "modelo_2026": "logistica_umbral",
+ "n_equipos_2026": 32,
+ "n_llega_2026": 18,
+ "f1_por_corte": {
+  "4": {
+   "regla": 0.6866423367268363,
+   "mejor_modelo": "logistica_umbral",
+   "mejor_f1": 0.7012373141306332,
+   "precision": 0.6435745371866696,
+   "recall": 0.7775297619047619,
+   "desvio_f1": 0.10288057226000602
+  },
+  "6": {
+   "regla": 0.7121887469453392,
+   "mejor_modelo": "logistica_umbral",
+   "mejor_f1": 0.7476724935222603,
+   "precision": 0.7123233005706884,
+   "recall": 0.7953869047619048,
+   "desvio_f1": 0.08566477408593115
+  },
+  "9": {
+   "regla": 0.7644771040766591,
+   "mejor_modelo": "logistica_umbral",
+   "mejor_f1": 0.7519723463970092,
+   "precision": 0.7434953934953935,
+   "recall": 0.7693452380952381,
+   "desvio_f1": 0.07366994977367847
+  },
+  "12": {
+   "regla": 0.8109198651589956,
+   "mejor_modelo": "svm",
+   "mejor_f1": 0.813334232747651,
+   "precision": 0.8559659090909091,
+   "recall": 0.78125,
+   "desvio_f1": 0.07907056754786175
+  }
+ },
+ "f1_modelo_final": 0.813334232747651,
+ "precision_final": 0.8559659090909091,
+ "recall_final": 0.78125,
+ "desvio_final": 0.07907056754786175,
+ "f1_final_2010_2018": 0.7995860375087429,
+ "f1_final_2019_2025": 0.8310104837691045,
+ "f1_regla_final": 0.8109198651589956,
+ "tabla_md": "| Corte | F1 regla % victorias | Mejor modelo | F1 medio | Precisión | Recall | Desvío del F1 |\n|---|---|---|---|---|---|---|\n| 4 | 0.687 | Logística con umbral | 0.701 | 0.644 | 0.778 | 0.103 |\n| 6 | 0.712 | Logística con umbral | 0.748 | 0.712 | 0.795 | 0.086 |\n| 9 | 0.764 | Logística con umbral | 0.752 | 0.743 | 0.769 | 0.074 |\n| 12 | 0.811 | SVM (RBF) | 0.813 | 0.856 | 0.781 | 0.079 |",
+ "cortes_con_mejora": [
+  6
+ ]
+}

@@ -1,0 +1,385 @@
+corte,season,modelo,hiperparametros
+4,2010,regla_pct_victorias,umbral=0.500
+4,2010,logistica,{'m__C': 1}
+4,2010,logistica_umbral,"{'m__C': 1}, umbral=0.35"
+4,2010,arbol,"{'max_depth': 3, 'min_samples_leaf': 5}"
+4,2010,knn,"{'m__n_neighbors': 9, 'm__weights': 'uniform'}"
+4,2010,svm,"{'m__C': 1, 'm__gamma': 0.1}"
+4,2011,regla_pct_victorias,umbral=0.500
+4,2011,logistica,{'m__C': 1}
+4,2011,logistica_umbral,"{'m__C': 1}, umbral=0.3"
+4,2011,arbol,"{'max_depth': 3, 'min_samples_leaf': 20}"
+4,2011,knn,"{'m__n_neighbors': 25, 'm__weights': 'uniform'}"
+4,2011,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+4,2012,regla_pct_victorias,umbral=0.500
+4,2012,logistica,{'m__C': 1}
+4,2012,logistica_umbral,"{'m__C': 1}, umbral=0.3"
+4,2012,arbol,"{'max_depth': 3, 'min_samples_leaf': 10}"
+4,2012,knn,"{'m__n_neighbors': 35, 'm__weights': 'distance'}"
+4,2012,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+4,2013,regla_pct_victorias,umbral=0.500
+4,2013,logistica,{'m__C': 1}
+4,2013,logistica_umbral,"{'m__C': 1}, umbral=0.35"
+4,2013,arbol,"{'max_depth': 3, 'min_samples_leaf': 10}"
+4,2013,knn,"{'m__n_neighbors': 51, 'm__weights': 'distance'}"
+4,2013,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+4,2014,regla_pct_victorias,umbral=0.500
+4,2014,logistica,{'m__C': 0.1}
+4,2014,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+4,2014,arbol,"{'max_depth': 3, 'min_samples_leaf': 10}"
+4,2014,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+4,2014,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+4,2015,regla_pct_victorias,umbral=0.500
+4,2015,logistica,{'m__C': 0.1}
+4,2015,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+4,2015,arbol,"{'max_depth': 3, 'min_samples_leaf': 10}"
+4,2015,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+4,2015,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+4,2016,regla_pct_victorias,umbral=0.500
+4,2016,logistica,{'m__C': 0.1}
+4,2016,logistica_umbral,"{'m__C': 0.1}, umbral=0.3"
+4,2016,arbol,"{'max_depth': 3, 'min_samples_leaf': 5}"
+4,2016,knn,"{'m__n_neighbors': 35, 'm__weights': 'uniform'}"
+4,2016,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+4,2017,regla_pct_victorias,umbral=0.500
+4,2017,logistica,{'m__C': 0.1}
+4,2017,logistica_umbral,"{'m__C': 0.1}, umbral=0.3"
+4,2017,arbol,"{'max_depth': 3, 'min_samples_leaf': 5}"
+4,2017,knn,"{'m__n_neighbors': 35, 'm__weights': 'uniform'}"
+4,2017,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+4,2018,regla_pct_victorias,umbral=0.500
+4,2018,logistica,{'m__C': 0.1}
+4,2018,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+4,2018,arbol,"{'max_depth': 4, 'min_samples_leaf': 10}"
+4,2018,knn,"{'m__n_neighbors': 35, 'm__weights': 'uniform'}"
+4,2018,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+4,2019,regla_pct_victorias,umbral=0.500
+4,2019,logistica,{'m__C': 0.1}
+4,2019,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+4,2019,arbol,"{'max_depth': 6, 'min_samples_leaf': 20}"
+4,2019,knn,"{'m__n_neighbors': 25, 'm__weights': 'uniform'}"
+4,2019,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+4,2020,regla_pct_victorias,umbral=0.500
+4,2020,logistica,{'m__C': 0.1}
+4,2020,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+4,2020,arbol,"{'max_depth': 4, 'min_samples_leaf': 10}"
+4,2020,knn,"{'m__n_neighbors': 9, 'm__weights': 'uniform'}"
+4,2020,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+4,2021,regla_pct_victorias,umbral=0.500
+4,2021,logistica,{'m__C': 0.1}
+4,2021,logistica_umbral,"{'m__C': 0.1}, umbral=0.45"
+4,2021,arbol,"{'max_depth': 4, 'min_samples_leaf': 10}"
+4,2021,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+4,2021,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+4,2022,regla_pct_victorias,umbral=0.500
+4,2022,logistica,{'m__C': 0.1}
+4,2022,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+4,2022,arbol,"{'max_depth': 3, 'min_samples_leaf': 5}"
+4,2022,knn,"{'m__n_neighbors': 5, 'm__weights': 'uniform'}"
+4,2022,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+4,2023,regla_pct_victorias,umbral=0.500
+4,2023,logistica,{'m__C': 0.1}
+4,2023,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+4,2023,arbol,"{'max_depth': 3, 'min_samples_leaf': 5}"
+4,2023,knn,"{'m__n_neighbors': 5, 'm__weights': 'uniform'}"
+4,2023,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+4,2024,regla_pct_victorias,umbral=0.500
+4,2024,logistica,{'m__C': 0.1}
+4,2024,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+4,2024,arbol,"{'max_depth': 3, 'min_samples_leaf': 5}"
+4,2024,knn,"{'m__n_neighbors': 35, 'm__weights': 'uniform'}"
+4,2024,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+4,2025,regla_pct_victorias,umbral=0.500
+4,2025,logistica,{'m__C': 0.1}
+4,2025,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+4,2025,arbol,"{'max_depth': 3, 'min_samples_leaf': 20}"
+4,2025,knn,"{'m__n_neighbors': 15, 'm__weights': 'distance'}"
+4,2025,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+6,2010,regla_pct_victorias,umbral=0.500
+6,2010,logistica,{'m__C': 1}
+6,2010,logistica_umbral,"{'m__C': 1}, umbral=0.35"
+6,2010,arbol,"{'max_depth': 5, 'min_samples_leaf': 20}"
+6,2010,knn,"{'m__n_neighbors': 9, 'm__weights': 'uniform'}"
+6,2010,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+6,2011,regla_pct_victorias,umbral=0.500
+6,2011,logistica,{'m__C': 1}
+6,2011,logistica_umbral,"{'m__C': 1}, umbral=0.35"
+6,2011,arbol,"{'max_depth': 5, 'min_samples_leaf': 20}"
+6,2011,knn,"{'m__n_neighbors': 9, 'm__weights': 'uniform'}"
+6,2011,svm,"{'m__C': 1, 'm__gamma': 0.01}"
+6,2012,regla_pct_victorias,umbral=0.500
+6,2012,logistica,{'m__C': 1}
+6,2012,logistica_umbral,"{'m__C': 1}, umbral=0.4"
+6,2012,arbol,"{'max_depth': 5, 'min_samples_leaf': 20}"
+6,2012,knn,"{'m__n_neighbors': 9, 'm__weights': 'uniform'}"
+6,2012,svm,"{'m__C': 1, 'm__gamma': 0.01}"
+6,2013,regla_pct_victorias,umbral=0.500
+6,2013,logistica,{'m__C': 1}
+6,2013,logistica_umbral,"{'m__C': 1}, umbral=0.3"
+6,2013,arbol,"{'max_depth': 6, 'min_samples_leaf': 20}"
+6,2013,knn,"{'m__n_neighbors': 25, 'm__weights': 'uniform'}"
+6,2013,svm,"{'m__C': 1, 'm__gamma': 0.01}"
+6,2014,regla_pct_victorias,umbral=0.500
+6,2014,logistica,{'m__C': 1}
+6,2014,logistica_umbral,"{'m__C': 1}, umbral=0.3"
+6,2014,arbol,"{'max_depth': 6, 'min_samples_leaf': 20}"
+6,2014,knn,"{'m__n_neighbors': 15, 'm__weights': 'uniform'}"
+6,2014,svm,"{'m__C': 1, 'm__gamma': 0.01}"
+6,2015,regla_pct_victorias,umbral=0.500
+6,2015,logistica,{'m__C': 1}
+6,2015,logistica_umbral,"{'m__C': 1}, umbral=0.5"
+6,2015,arbol,"{'max_depth': 6, 'min_samples_leaf': 20}"
+6,2015,knn,"{'m__n_neighbors': 15, 'm__weights': 'uniform'}"
+6,2015,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+6,2016,regla_pct_victorias,umbral=0.583
+6,2016,logistica,{'m__C': 0.1}
+6,2016,logistica_umbral,"{'m__C': 0.1}, umbral=0.5"
+6,2016,arbol,"{'max_depth': 6, 'min_samples_leaf': 20}"
+6,2016,knn,"{'m__n_neighbors': 35, 'm__weights': 'distance'}"
+6,2016,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+6,2017,regla_pct_victorias,umbral=0.583
+6,2017,logistica,{'m__C': 0.1}
+6,2017,logistica_umbral,"{'m__C': 0.1}, umbral=0.5"
+6,2017,arbol,"{'max_depth': 4, 'min_samples_leaf': 5}"
+6,2017,knn,"{'m__n_neighbors': 51, 'm__weights': 'distance'}"
+6,2017,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+6,2018,regla_pct_victorias,umbral=0.583
+6,2018,logistica,{'m__C': 0.1}
+6,2018,logistica_umbral,"{'m__C': 0.1}, umbral=0.4"
+6,2018,arbol,"{'max_depth': 4, 'min_samples_leaf': 10}"
+6,2018,knn,"{'m__n_neighbors': 51, 'm__weights': 'distance'}"
+6,2018,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+6,2019,regla_pct_victorias,umbral=0.583
+6,2019,logistica,{'m__C': 0.1}
+6,2019,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+6,2019,arbol,"{'max_depth': 5, 'min_samples_leaf': 10}"
+6,2019,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+6,2019,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+6,2020,regla_pct_victorias,umbral=0.583
+6,2020,logistica,{'m__C': 0.1}
+6,2020,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+6,2020,arbol,"{'max_depth': 3, 'min_samples_leaf': 5}"
+6,2020,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+6,2020,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+6,2021,regla_pct_victorias,umbral=0.583
+6,2021,logistica,{'m__C': 0.1}
+6,2021,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+6,2021,arbol,"{'max_depth': 3, 'min_samples_leaf': 5}"
+6,2021,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+6,2021,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+6,2022,regla_pct_victorias,umbral=0.583
+6,2022,logistica,{'m__C': 10}
+6,2022,logistica_umbral,"{'m__C': 10}, umbral=0.35"
+6,2022,arbol,"{'max_depth': 3, 'min_samples_leaf': 5}"
+6,2022,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+6,2022,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+6,2023,regla_pct_victorias,umbral=0.667
+6,2023,logistica,{'m__C': 0.1}
+6,2023,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+6,2023,arbol,"{'max_depth': 3, 'min_samples_leaf': 5}"
+6,2023,knn,"{'m__n_neighbors': 15, 'm__weights': 'distance'}"
+6,2023,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+6,2024,regla_pct_victorias,umbral=0.667
+6,2024,logistica,{'m__C': 0.1}
+6,2024,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+6,2024,arbol,"{'max_depth': 2, 'min_samples_leaf': 5}"
+6,2024,knn,"{'m__n_neighbors': 25, 'm__weights': 'distance'}"
+6,2024,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+6,2025,regla_pct_victorias,umbral=0.667
+6,2025,logistica,{'m__C': 0.1}
+6,2025,logistica_umbral,"{'m__C': 0.1}, umbral=0.35"
+6,2025,arbol,"{'max_depth': 2, 'min_samples_leaf': 5}"
+6,2025,knn,"{'m__n_neighbors': 25, 'm__weights': 'distance'}"
+6,2025,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+9,2010,regla_pct_victorias,umbral=0.556
+9,2010,logistica,{'m__C': 1}
+9,2010,logistica_umbral,"{'m__C': 1}, umbral=0.4"
+9,2010,arbol,"{'max_depth': 4, 'min_samples_leaf': 20}"
+9,2010,knn,"{'m__n_neighbors': 25, 'm__weights': 'uniform'}"
+9,2010,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+9,2011,regla_pct_victorias,umbral=0.556
+9,2011,logistica,{'m__C': 0.1}
+9,2011,logistica_umbral,"{'m__C': 0.1}, umbral=0.3"
+9,2011,arbol,"{'max_depth': 5, 'min_samples_leaf': 5}"
+9,2011,knn,"{'m__n_neighbors': 25, 'm__weights': 'uniform'}"
+9,2011,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+9,2012,regla_pct_victorias,umbral=0.556
+9,2012,logistica,{'m__C': 1}
+9,2012,logistica_umbral,"{'m__C': 1}, umbral=0.45"
+9,2012,arbol,"{'max_depth': 5, 'min_samples_leaf': 5}"
+9,2012,knn,"{'m__n_neighbors': 15, 'm__weights': 'uniform'}"
+9,2012,svm,"{'m__C': 0.1, 'm__gamma': 'scale'}"
+9,2013,regla_pct_victorias,umbral=0.556
+9,2013,logistica,{'m__C': 1}
+9,2013,logistica_umbral,"{'m__C': 1}, umbral=0.55"
+9,2013,arbol,"{'max_depth': 5, 'min_samples_leaf': 5}"
+9,2013,knn,"{'m__n_neighbors': 15, 'm__weights': 'uniform'}"
+9,2013,svm,"{'m__C': 0.1, 'm__gamma': 'scale'}"
+9,2014,regla_pct_victorias,umbral=0.556
+9,2014,logistica,{'m__C': 1}
+9,2014,logistica_umbral,"{'m__C': 1}, umbral=0.35"
+9,2014,arbol,"{'max_depth': 5, 'min_samples_leaf': 5}"
+9,2014,knn,"{'m__n_neighbors': 15, 'm__weights': 'uniform'}"
+9,2014,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+9,2015,regla_pct_victorias,umbral=0.556
+9,2015,logistica,{'m__C': 1}
+9,2015,logistica_umbral,"{'m__C': 1}, umbral=0.45"
+9,2015,arbol,"{'max_depth': 4, 'min_samples_leaf': 20}"
+9,2015,knn,"{'m__n_neighbors': 15, 'm__weights': 'uniform'}"
+9,2015,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+9,2016,regla_pct_victorias,umbral=0.556
+9,2016,logistica,{'m__C': 0.1}
+9,2016,logistica_umbral,"{'m__C': 0.1}, umbral=0.4"
+9,2016,arbol,"{'max_depth': 4, 'min_samples_leaf': 20}"
+9,2016,knn,"{'m__n_neighbors': 35, 'm__weights': 'uniform'}"
+9,2016,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+9,2017,regla_pct_victorias,umbral=0.556
+9,2017,logistica,{'m__C': 10}
+9,2017,logistica_umbral,"{'m__C': 10}, umbral=0.6"
+9,2017,arbol,"{'max_depth': 5, 'min_samples_leaf': 10}"
+9,2017,knn,"{'m__n_neighbors': 51, 'm__weights': 'distance'}"
+9,2017,svm,"{'m__C': 10, 'm__gamma': 0.1}"
+9,2018,regla_pct_victorias,umbral=0.556
+9,2018,logistica,{'m__C': 10}
+9,2018,logistica_umbral,"{'m__C': 10}, umbral=0.5"
+9,2018,arbol,"{'max_depth': 4, 'min_samples_leaf': 20}"
+9,2018,knn,"{'m__n_neighbors': 51, 'm__weights': 'distance'}"
+9,2018,svm,"{'m__C': 10, 'm__gamma': 0.1}"
+9,2019,regla_pct_victorias,umbral=0.556
+9,2019,logistica,{'m__C': 10}
+9,2019,logistica_umbral,"{'m__C': 10}, umbral=0.6"
+9,2019,arbol,"{'max_depth': 4, 'min_samples_leaf': 5}"
+9,2019,knn,"{'m__n_neighbors': 35, 'm__weights': 'uniform'}"
+9,2019,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+9,2020,regla_pct_victorias,umbral=0.556
+9,2020,logistica,{'m__C': 10}
+9,2020,logistica_umbral,"{'m__C': 10}, umbral=0.6"
+9,2020,arbol,"{'max_depth': 4, 'min_samples_leaf': 5}"
+9,2020,knn,"{'m__n_neighbors': 35, 'm__weights': 'uniform'}"
+9,2020,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+9,2021,regla_pct_victorias,umbral=0.556
+9,2021,logistica,{'m__C': 100}
+9,2021,logistica_umbral,"{'m__C': 100}, umbral=0.4"
+9,2021,arbol,"{'max_depth': 4, 'min_samples_leaf': 5}"
+9,2021,knn,"{'m__n_neighbors': 35, 'm__weights': 'uniform'}"
+9,2021,svm,"{'m__C': 10, 'm__gamma': 'scale'}"
+9,2022,regla_pct_victorias,umbral=0.556
+9,2022,logistica,{'m__C': 100}
+9,2022,logistica_umbral,"{'m__C': 100}, umbral=0.3"
+9,2022,arbol,"{'max_depth': 2, 'min_samples_leaf': 5}"
+9,2022,knn,"{'m__n_neighbors': 35, 'm__weights': 'uniform'}"
+9,2022,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+9,2023,regla_pct_victorias,umbral=0.556
+9,2023,logistica,{'m__C': 100}
+9,2023,logistica_umbral,"{'m__C': 100}, umbral=0.3"
+9,2023,arbol,"{'max_depth': 3, 'min_samples_leaf': 20}"
+9,2023,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+9,2023,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+9,2024,regla_pct_victorias,umbral=0.556
+9,2024,logistica,{'m__C': 100}
+9,2024,logistica_umbral,"{'m__C': 100}, umbral=0.3"
+9,2024,arbol,"{'max_depth': 3, 'min_samples_leaf': 20}"
+9,2024,knn,"{'m__n_neighbors': 9, 'm__weights': 'uniform'}"
+9,2024,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+9,2025,regla_pct_victorias,umbral=0.556
+9,2025,logistica,{'m__C': 1}
+9,2025,logistica_umbral,"{'m__C': 1}, umbral=0.35"
+9,2025,arbol,"{'max_depth': 5, 'min_samples_leaf': 20}"
+9,2025,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+9,2025,svm,"{'m__C': 1, 'm__gamma': 0.1}"
+12,2010,regla_pct_victorias,umbral=0.542
+12,2010,logistica,{'m__C': 0.1}
+12,2010,logistica_umbral,"{'m__C': 0.1}, umbral=0.4"
+12,2010,arbol,"{'max_depth': 4, 'min_samples_leaf': 5}"
+12,2010,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+12,2010,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+12,2011,regla_pct_victorias,umbral=0.542
+12,2011,logistica,{'m__C': 0.1}
+12,2011,logistica_umbral,"{'m__C': 0.1}, umbral=0.4"
+12,2011,arbol,"{'max_depth': 6, 'min_samples_leaf': 5}"
+12,2011,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+12,2011,svm,"{'m__C': 1, 'm__gamma': 0.1}"
+12,2012,regla_pct_victorias,umbral=0.542
+12,2012,logistica,{'m__C': 1}
+12,2012,logistica_umbral,"{'m__C': 1}, umbral=0.5"
+12,2012,arbol,"{'max_depth': 6, 'min_samples_leaf': 10}"
+12,2012,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+12,2012,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+12,2013,regla_pct_victorias,umbral=0.542
+12,2013,logistica,{'m__C': 1}
+12,2013,logistica_umbral,"{'m__C': 1}, umbral=0.5"
+12,2013,arbol,"{'max_depth': 6, 'min_samples_leaf': 10}"
+12,2013,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+12,2013,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+12,2014,regla_pct_victorias,umbral=0.542
+12,2014,logistica,{'m__C': 0.01}
+12,2014,logistica_umbral,"{'m__C': 0.01}, umbral=0.5"
+12,2014,arbol,"{'max_depth': 2, 'min_samples_leaf': 5}"
+12,2014,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+12,2014,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+12,2015,regla_pct_victorias,umbral=0.542
+12,2015,logistica,{'m__C': 1}
+12,2015,logistica_umbral,"{'m__C': 1}, umbral=0.5"
+12,2015,arbol,"{'max_depth': 6, 'min_samples_leaf': 10}"
+12,2015,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+12,2015,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+12,2016,regla_pct_victorias,umbral=0.542
+12,2016,logistica,{'m__C': 1}
+12,2016,logistica_umbral,"{'m__C': 1}, umbral=0.5"
+12,2016,arbol,"{'max_depth': 3, 'min_samples_leaf': 20}"
+12,2016,knn,"{'m__n_neighbors': 35, 'm__weights': 'uniform'}"
+12,2016,svm,"{'m__C': 0.1, 'm__gamma': 0.1}"
+12,2017,regla_pct_victorias,umbral=0.542
+12,2017,logistica,{'m__C': 1}
+12,2017,logistica_umbral,"{'m__C': 1}, umbral=0.5"
+12,2017,arbol,"{'max_depth': 2, 'min_samples_leaf': 5}"
+12,2017,knn,"{'m__n_neighbors': 9, 'm__weights': 'uniform'}"
+12,2017,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+12,2018,regla_pct_victorias,umbral=0.542
+12,2018,logistica,{'m__C': 1}
+12,2018,logistica_umbral,"{'m__C': 1}, umbral=0.5"
+12,2018,arbol,"{'max_depth': 4, 'min_samples_leaf': 20}"
+12,2018,knn,"{'m__n_neighbors': 9, 'm__weights': 'uniform'}"
+12,2018,svm,"{'m__C': 0.1, 'm__gamma': 0.1}"
+12,2019,regla_pct_victorias,umbral=0.583
+12,2019,logistica,{'m__C': 0.1}
+12,2019,logistica_umbral,"{'m__C': 0.1}, umbral=0.5"
+12,2019,arbol,"{'max_depth': 4, 'min_samples_leaf': 20}"
+12,2019,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+12,2019,svm,"{'m__C': 1, 'm__gamma': 'scale'}"
+12,2020,regla_pct_victorias,umbral=0.583
+12,2020,logistica,{'m__C': 0.1}
+12,2020,logistica_umbral,"{'m__C': 0.1}, umbral=0.5"
+12,2020,arbol,"{'max_depth': 4, 'min_samples_leaf': 20}"
+12,2020,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+12,2020,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+12,2021,regla_pct_victorias,umbral=0.583
+12,2021,logistica,{'m__C': 0.1}
+12,2021,logistica_umbral,"{'m__C': 0.1}, umbral=0.5"
+12,2021,arbol,"{'max_depth': 4, 'min_samples_leaf': 20}"
+12,2021,knn,"{'m__n_neighbors': 51, 'm__weights': 'uniform'}"
+12,2021,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+12,2022,regla_pct_victorias,umbral=0.542
+12,2022,logistica,{'m__C': 0.1}
+12,2022,logistica_umbral,"{'m__C': 0.1}, umbral=0.5"
+12,2022,arbol,"{'max_depth': 5, 'min_samples_leaf': 20}"
+12,2022,knn,"{'m__n_neighbors': 51, 'm__weights': 'distance'}"
+12,2022,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+12,2023,regla_pct_victorias,umbral=0.542
+12,2023,logistica,{'m__C': 0.1}
+12,2023,logistica_umbral,"{'m__C': 0.1}, umbral=0.5"
+12,2023,arbol,"{'max_depth': 5, 'min_samples_leaf': 20}"
+12,2023,knn,"{'m__n_neighbors': 9, 'm__weights': 'distance'}"
+12,2023,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+12,2024,regla_pct_victorias,umbral=0.542
+12,2024,logistica,{'m__C': 1}
+12,2024,logistica_umbral,"{'m__C': 1}, umbral=0.55"
+12,2024,arbol,"{'max_depth': 6, 'min_samples_leaf': 5}"
+12,2024,knn,"{'m__n_neighbors': 5, 'm__weights': 'distance'}"
+12,2024,svm,"{'m__C': 10, 'm__gamma': 0.01}"
+12,2025,regla_pct_victorias,umbral=0.542
+12,2025,logistica,{'m__C': 1}
+12,2025,logistica_umbral,"{'m__C': 1}, umbral=0.3"
+12,2025,arbol,"{'max_depth': 4, 'min_samples_leaf': 20}"
+12,2025,knn,"{'m__n_neighbors': 51, 'm__weights': 'distance'}"
+12,2025,svm,"{'m__C': 10, 'm__gamma': 0.01}"
